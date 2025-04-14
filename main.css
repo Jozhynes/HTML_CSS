@@ -1,1 +1,7 @@
-Body{background-color: red;}
+Body{background-color: red;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+line-height: 1.6;
+margin: 0;
+padding: 0;
+background-color: aqua;
+color: H333;}
